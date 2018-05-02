@@ -56,7 +56,7 @@
     </div>
     <hr class="my-1">
     <div id="machine">
-        <ul class="list-group-horizontal shadow_effect paper_tape" id="turing_memory"></ul>
+        <ul class="list-group-horizontal shadow_effect paper_tape rounded" id="turing_memory"></ul>
     </div>
     <hr class="my-1">
     <div class="row" id="row_position">

@@ -61,6 +61,10 @@
 .paper_tape{
     height: 8vh;
     position: relative;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
     -webkit-transition: left 1s;
     -moz-transition: left 1s;
     -ms-transition: left 1s;

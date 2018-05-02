@@ -74,23 +74,23 @@
             <hr class="my-1">
             <div class="input-group">
                 <div class="input-group-prepend">
-                    <span class="input-group-text">Pos</span>
+                    <span class="input-group-text" >Pos</span>
                 </div>
-                <input type="text" class="form-control" id="status_position"/>
+                <input type="text" class="form-control" readonly id="status_position"/>
             </div>
             <hr class="my-1">
             <div class="input-group">
                 <div class="input-group-prepend">
                     <span class="input-group-text">HasNext</span>
                 </div>
-                <input type="text" class="form-control" id="status_hasnxt"/>
+                <input type="text" class="form-control" readonly id="status_hasnxt"/>
             </div>
             <hr class="my-1">
             <div class="input-group">
                 <div class="input-group-prepend">
                     <span class="input-group-text">State</span>
                 </div>
-                <input type="text" class="form-control" id="status_state"/>
+                <input type="text" class="form-control" readonly id="status_state"/>
             </div>
             <hr class="my-1">
 
@@ -98,7 +98,7 @@
                 <div class="input-group-prepend">
                     <span class="input-group-text">Dir</span>
                 </div>
-                <input type="text" class="form-control" id="status_direction"/>
+                <input type="text" class="form-control" readonly id="status_direction"/>
             </div>
 
             <!--                </div>-->

@@ -6,6 +6,10 @@
     border-bottom-left-radius: 0;
 }
 
+.shadow_effect{
+    box-shadow: 0 5px 10px 0 rgba(0,0,0,0.3);
+}
+
 #input{
     border-bottom-right-radius: 0;
 }
@@ -31,6 +35,7 @@
     position: relative;
     width: 100%;height: 300px;
     overflow: auto;
+    border: transparent;
 }
 
 #turing_code{
@@ -54,7 +59,7 @@
     transition: background-color 1s;
 }
 .paper_tape{
-    height: 10vh;
+    height: 8vh;
     position: relative;
     -webkit-transition: left 1s;
     -moz-transition: left 1s;
@@ -69,7 +74,7 @@
 
 .paper_tape_item{
     width: 10vh;
-    height: 10vh;
+    height: 8vh;
     -webkit-transition: background-color 1s;
     -moz-transition: background-color 1s;
     -ms-transition: background-color 1s;

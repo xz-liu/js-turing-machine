@@ -5,14 +5,14 @@
     <meta name="description" content="General Turing Machine Emulator"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
     <title>Turing Machine</title>
-    <link href="../Content/bootstrap.css" rel="stylesheet"/>
-    <link rel="icon" href="../favicon_code.ico" type="image/x-icon"/>
-    <link rel="shortcut icon" href="../favicon_code.ico" type="image/x-icon"/>
-    <link href="../Fonts/css/fontawesome.css" media="all" rel="stylesheet"/>
-    <link href="../Fonts/css/fontawesome-all.css" media="all" rel="stylesheet"/>
+    <link href="https://resources.joker.services/Content/bootstrap.css" rel="stylesheet"/>
+    <link rel="icon" href="https://resources.joker.services/favicon_code.ico" type="image/x-icon"/>
+    <link rel="shortcut icon" href="https://resources.joker.services/favicon_code.ico" type="image/x-icon"/>
+    <link href="https://resources.joker.services/Fonts/css/fontawesome.css" media="all" rel="stylesheet"/>
+    <link href="https://resources.joker.services/Fonts/css/fontawesome-all.css" media="all" rel="stylesheet"/>
     <link href="styles.css" media="all" rel="stylesheet"/>
-    <script src="../Scripts/jquery-3.1.1.js"></script>
-    <script src="../Scripts/bootstrap.bundle.js"></script>
+    <script src="https://resources.joker.services/Scripts/jquery-3.1.1.js"></script>
+    <script src="https://resources.joker.services/Scripts/bootstrap.bundle.js"></script>
     <script src="machine_ctrl.js"></script>
 </head>
 <body id="page_body">

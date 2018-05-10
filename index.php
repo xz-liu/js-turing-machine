@@ -11,7 +11,7 @@
     <link href="https://res.joker.im/Fonts/css/fontawesome.css" media="all" rel="stylesheet"/>
     <link href="https://res.joker.im/Fonts/css/fontawesome-all.css" media="all" rel="stylesheet"/>
     <link href="styles.css" media="all" rel="stylesheet"/>
-    <script src="https://res.joker.im/Scripts/jquery-3.1.1.js"></script>
+    <script src="https://res.joker.im/Scripts/jquery-3.1.1.min.js"></script>
     <script src="https://res.joker.im/Scripts/bootstrap.bundle.js"></script>
     <script src="machine_ctrl.js"></script>
 </head>
